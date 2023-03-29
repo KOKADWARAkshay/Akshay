@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Kokadwar</h1>
-<h3 align="center">Android || UI/UX || Blockchain</h3>
+<h3 align="center">Android || UI/UX || DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kokadwarakshay&label=Profile%20views&color=0e75b6&style=flat" alt="kokadwarakshay" /> </p>
 
