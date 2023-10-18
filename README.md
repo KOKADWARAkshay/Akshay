@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kokadwarakshay" target="blank"><img src="https://img.shields.io/twitter/follow/kokadwarakshay?logo=twitter&style=for-the-badge" alt="kokadwarakshay" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
 
-- 👯 I’m looking to collaborate on **Android and Blockchain projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
